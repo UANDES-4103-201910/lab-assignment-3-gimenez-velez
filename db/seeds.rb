@@ -6,15 +6,15 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-User.create(name: "Nicolas", LastName: "Gonzalez", Email: "nf@gmail.com", Phone: 984532108, Password: "ng", Address: "El Rodeo 1298")
+User.create(Name: "Nicolas", LastName: "Gonzalez", Email: "nf@gmail.com", Phone: 984532108, Password: "ng", Address: "El Rodeo 1298")
 
-User.create(Name: "Mario", LastName: "Fernandez", Email: "mf@gmail.com", Phone: 979478238, Password: "mf", Adress: "El Arrayan 123")
+User.create(Name: "Mario", LastName: "Fernandez", Email: "mf@gmail.com", Phone: 979478238, Password: "mf", Address: "El Arrayan 123")
 
-User.create(Name: "Andres", LastName: "Ibarra", Email: "ai@gmail.com", Phone: 989049862, Password: "ai", Adress: "El Cerro 1398")
+User.create(Name: "Andres", LastName: "Ibarra", Email: "ai@gmail.com", Phone: 989049862, Password: "ai", Address: "El Cerro 1398")
 
-User.create(Name: "Bernardo", LastName: "Quintana", Email: "bq@gmail.com", Phone: 979837418, Password: "bq", Adress: "Av Apoquindo 6489")
+User.create(Name: "Bernardo", LastName: "Quintana", Email: "bq@gmail.com", Phone: 979837418, Password: "bq", Address: "Av Apoquindo 6489")
 
-User.create(Name: "Raimundo", LastName: "Lopez", Email: "rl@gmail.com", Phone: 998736420, Password: "rl", Adress: "Av San Carlos 2830")
+User.create(Name: "Raimundo", LastName: "Lopez", Email: "rl@gmail.com", Phone: 998736420, Password: "rl", Address: "Av San Carlos 2830")
 
 
 Event.create(Name: "Iron Maiden", Description: "Concierto de su nuevo album", StartDate: "27 de Noviembre, 2019", Location: "Estadio Nacional")
