@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  string: MyString
+  Address: MyString
+  string: MyString
+  Capacity: MyString
+  integer: MyString
+
+two:
+  Name: MyString
+  string: MyString
+  Address: MyString
+  string: MyString
+  Capacity: MyString
+  integer: MyString

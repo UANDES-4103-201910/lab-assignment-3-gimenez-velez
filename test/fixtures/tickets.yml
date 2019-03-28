@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Event: MyString
+  string: MyString
+  Price: MyString
+  integer: MyString
+  Category: MyString
+  string: MyString
+
+two:
+  Event: MyString
+  string: MyString
+  Price: MyString
+  integer: MyString
+  Category: MyString
+  string: MyString
